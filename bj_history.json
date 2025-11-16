@@ -1,0 +1,18 @@
+{
+  "1439136093370060851": {
+    "wins": 2,
+    "losses": 0,
+    "draws": 0,
+    "max_streak": 2,
+    "current_streak": 2,
+    "last_result": "win"
+  },
+  "566958368736935936": {
+    "wins": 2,
+    "losses": 4,
+    "draws": 0,
+    "max_streak": 2,
+    "current_streak": 0,
+    "last_result": "lose"
+  }
+}
